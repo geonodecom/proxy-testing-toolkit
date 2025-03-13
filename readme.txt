@@ -1,4 +1,4 @@
-# Proxy Testing Script:
+# "success-latency.py" Proxy Testing Script: 
 
 This repository contains a combined script utilizing python requests library to help you test the latency and success rate of your proxies. The scripts support both **SOCKS5** and **HTTPS** proxies, and they use [ip-api.com](http://ip-api.com) as the default target to gather testing information.
 
