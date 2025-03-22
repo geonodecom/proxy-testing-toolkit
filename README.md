@@ -1,37 +1,12 @@
-# Geonode Proxy Testing Toolkit
+# Geonode Proxy Automation with Selenium
 
-Welcome to the Geonode Proxy Testing Toolkit repository! This repository contains various scripts designed to help you set up, test, and utilize Geonode proxies in different scenarios. Whether you’re looking to integrate Geonode for automation browsing or need sample scripts for specific use cases, you'll find all the tools you need here.
+This branch contains a Selenium script designed to help you automate browsing using Geonode proxies.
 
 ## Purpose
 
-This repository provides a collection of scripts for:
+The script in this branch is part of the setup to integrate Geonode proxies within Selenium for automated browsing. 
 
-- **Testing**: Running performance, functionality, and integration tests using Geonode proxies.
-- **Setup**: Scripts for configuring and setting up Geonode proxies, especially for use with Selenium or other web scraping frameworks.
-- **Use Cases**: Example scripts for specific use cases, including automating tasks, managing proxies, or integrating Geonode into various testing workflows.
+## How to Use
 
-The scripts are organized into specific categories and folders for easier navigation.
-
-## Getting Started
-
-### Prerequisites
-
-Before you can use the scripts, ensure that you have the following tools installed:
-
-- Geonode API credentials (to configure and authenticate with the Geonode proxy service)
-
-### Installation
-
-- Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/geonodecom/proxy-testing-toolkit.git
-   cd proxy-testing-toolkit
-   ```
-
-- Install any required dependencies if needed (e.g., Python,Nodejs etc or other dependencies).
-
-## Contributing
-
-If you'd like to contribute to this repository, feel free to fork it and submit a pull request. Please ensure your changes are well-documented and tested before submitting.
-
+Please refer to the above guide to configure and use the Selenium script with Geonode proxies.
+- [Geonode Proxy Setup with Selenium Automation Framework](https://docs.geonode.com/proxy-setup/automation-frameworks/selenium)
