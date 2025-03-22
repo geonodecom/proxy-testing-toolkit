@@ -1,10 +1,8 @@
-# Geonode Proxy Automation with Selenium
-
-This branch contains a Selenium script designed to help you automate browsing using Geonode proxies.
+# How to Integrate Geonode API with Selenium
 
 ## Purpose
 
-The script in this branch is part of the setup to integrate Geonode proxies within Selenium for automated browsing. 
+This script will help you integrate the Geonode API with Selenium to manage proxies effectively while running headless browsers. 
 
 ## How to Use
 
